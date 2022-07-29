@@ -4,5 +4,5 @@
 
 To clone these file
 
-`git clone https://github.com/Mikew33/dbsnipper.git`
+`https://github.com/mikewill1998/VCFParser.git`
 
